@@ -1,0 +1,94 @@
+{
+    "items": [
+        {
+            "Diamond": {
+                "id": 1601,
+                "previous": 1721.0
+            }
+        },
+        {
+            "Gold Bar": {
+                "id": 2357,
+                "previous": 111.0
+            }
+        },
+        {
+            "Diamond Necklace": {
+                "id": 1662,
+                "previous": 2085.0
+            }
+        },
+        {
+            "Nature Rune": {
+                "id": 561,
+                "previous": 92.0
+            }
+        },
+        {
+            "Cosmic Rune": {
+                "id": 564,
+                "previous": 74.0
+            }
+        },
+        {
+            "Burning Amulet": {
+                "id": 21166,
+                "previous": 6956.0
+            }
+        },
+        {
+            "Topaz Amulet": {
+                "id": 21114,
+                "previous": 6600.0
+            }
+        },
+        {
+            "Unfinished Topaz Amulet": {
+                "id": 21105,
+                "previous": 6300.0
+            }
+        },
+        {
+            "Crystal Loop Half": {
+                "id": 987,
+                "previous": 9608.0
+            }
+        },
+        {
+            "Crystal Teeth Half": {
+                "id": 985,
+                "previous": 10013.0
+            }
+        },
+        {
+            "Crystal Key": {
+                "id": 989,
+                "previous": 20048.0
+            }
+        },
+        {
+            "Coal": {
+                "id": 453,
+                "previous": 228.5
+            }
+        },
+        {
+            "Iron Ore": {
+                "id": 440,
+                "previous": 111.5
+            }
+        },
+        {
+            "Steel Bar": {
+                "id": 2353,
+                "previous": 605.0
+            }
+        },
+        {
+            "Ball of Wool": {
+                "id": 1759,
+                "previous": 41.5
+            }
+        }
+    ]
+}
